@@ -1,0 +1,3 @@
+dataset为up小土堆提供的蚂蚁蜜蜂数据集
+P10  CIRAR10数据集来源于PYTORCH官网
+https://pytorch.org/vision/stable/generated/torchvision.datasets.CIFAR10.html#torchvision.datasets.CIFAR10
